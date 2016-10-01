@@ -22,8 +22,8 @@ Development tools and techniques include:
 ## Getting Started
 
 ```
-  > git clone https://github.com/PiotrBerebecki/authentication-higher-order-component-in-react-redux.git
-  > cd comment-box-react-redux
+  > git clone https://github.com/PiotrBerebecki/users-list-with-redux-async-middleware.git
+  > cd users-list-with-redux-async-middleware
   > npm install
   > npm start
 ```

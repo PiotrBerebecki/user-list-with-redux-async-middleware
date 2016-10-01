@@ -9,9 +9,11 @@ Development tools and techniques include:
 * React
 * Redux
 * ES6
+* AJAX
 * Promises (Axios)
-* Babel
 * Redux
+* Redux async middleware
+* Babel
 * Webpack
 * Node
 * Git

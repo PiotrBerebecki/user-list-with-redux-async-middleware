@@ -7,8 +7,9 @@ The app has been developed by Piotr Berebecki as part of undertaking an excellen
 Development tools and techniques include:
 
 * React
+* Redux
 * ES6
-* Promises
+* Promises (Axios)
 * Babel
 * Redux
 * Webpack
